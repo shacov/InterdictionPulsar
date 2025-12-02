@@ -1,0 +1,31 @@
+{
+  "block.interdictionpulsar.angel_block": "天使方块",
+  "block.interdictionpulsar.interdiction_pulsar": "脉冲阻拦器",
+  
+  "item.interdictionpulsar.angel_block": "天使方块",
+  "item.interdictionpulsar.interdiction_pulsar": "脉冲阻拦器",
+
+  "gui.interdictionpulsar.interdiction_pulsar.tick_interval": "工作间隔",
+  "gui.interdictionpulsar.interdiction_pulsar.horizontal_range": "水平范围",
+  "gui.interdictionpulsar.interdiction_pulsar.vertical_range": "垂直范围",
+  "gui.interdictionpulsar.interdiction_pulsar.strength": "推力强度",
+  "gui.interdictionpulsar.interdiction_pulsar.mode": "工作模式",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_mode": "红石模式",
+  "gui.interdictionpulsar.interdiction_pulsar.hostile": "敌对生物",
+  "gui.interdictionpulsar.interdiction_pulsar.passive": "被动生物",
+  "gui.interdictionpulsar.interdiction_pulsar.player": "玩家",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_x": "作用原点X",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_y": "作用原点Y",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_z": "作用原点Z",
+  "gui.interdictionpulsar.interdiction_pulsar.horizontal_mode": "水平模式",
+  "gui.interdictionpulsar.interdiction_pulsar.vertical_mode": "垂直模式",
+
+  "gui.interdictionpulsar.interdiction_pulsar.switch": "切换",
+  "gui.interdictionpulsar.interdiction_pulsar.on": "§a开启",
+  "gui.interdictionpulsar.interdiction_pulsar.off": "§c关闭",
+  "gui.interdictionpulsar.interdiction_pulsar.mode_push": "§a推开",
+  "gui.interdictionpulsar.interdiction_pulsar.mode_pull": "§c吸引",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_ignore": "§a忽略红石",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_require": "§c需要红石",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_stop": "§d红石停止"
+}

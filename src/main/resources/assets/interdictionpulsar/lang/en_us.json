@@ -1,0 +1,32 @@
+{
+  "item.interdictionpulsar.angel_block": "Angel Block",
+  "item.interdictionpulsar.interdiction_pulsar": "Interdiction Pulsar",
+
+  "block.interdictionpulsar.angel_block": "Angel Block",
+  "block.interdictionpulsar.interdiction_pulsar": "Interdiction Pulsar",
+  
+  "gui.interdictionpulsar.interdiction_pulsar.tick_interval": "Tick Interval",
+  "gui.interdictionpulsar.interdiction_pulsar.horizontal_range": "Horizontal Range",
+  "gui.interdictionpulsar.interdiction_pulsar.vertical_range": "Vertical Range",
+  "gui.interdictionpulsar.interdiction_pulsar.strength": "Strength",
+  "gui.interdictionpulsar.interdiction_pulsar.mode": "Mode",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_mode": "Redstone Mode",
+  "gui.interdictionpulsar.interdiction_pulsar.hostile": "Hostile Mobs",
+  "gui.interdictionpulsar.interdiction_pulsar.passive": "Passive Mobs",
+  "gui.interdictionpulsar.interdiction_pulsar.player": "Players",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_x": "Origin X",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_y": "Origin Y",
+  "gui.interdictionpulsar.interdiction_pulsar.custom_origin_z": "Origin Z",
+  "gui.interdictionpulsar.interdiction_pulsar.horizontal_mode": "Horizontal Mode",
+  "gui.interdictionpulsar.interdiction_pulsar.vertical_mode": "Vertical Mode",
+
+  "gui.interdictionpulsar.interdiction_pulsar.switch": "Switch",
+  "gui.interdictionpulsar.interdiction_pulsar.on": "§aOn",
+  "gui.interdictionpulsar.interdiction_pulsar.off": "§cOff",
+  "gui.interdictionpulsar.interdiction_pulsar.mode_push": "§9Push",
+  "gui.interdictionpulsar.interdiction_pulsar.mode_pull": "§6Pull",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_ignore": "§iIgnore Redstone",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_require": "§aRequire Redstone",
+  "gui.interdictionpulsar.interdiction_pulsar.redstone_stop": "§cStop on Redstone"
+
+}
