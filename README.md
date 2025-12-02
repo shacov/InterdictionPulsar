@@ -37,7 +37,7 @@ Interdiction Pulsar is a Minecraft mod that adds a block that can repel or attra
   - 红石停止：收到红石信号时停止工作
 
 - **高级功能**：
-  - 自定义作用原点：可设置远程作用点（支持负坐标）
+  - 自定义作用原点：可设置远程作用点
   - 全方位3D移动：水平+垂直模式实现真正的3D力场
 
 ### 👼 天使方块 (Angel Block)
